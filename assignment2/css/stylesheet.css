@@ -2,9 +2,6 @@
   box-sizing: border-box;
   padding: 0px;
 
-
-
-
 }
 
 body{
@@ -99,7 +96,7 @@ padding: 0px 0px 10px 10px;
 
 .col1 h2{
 	color: white;
-background-color: red;
+background-color: green;
 }
 
 .col2 h2{
