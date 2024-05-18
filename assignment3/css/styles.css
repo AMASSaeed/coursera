@@ -15,10 +15,12 @@ justify-content: center;
 }
 .containeer{
 	overflow: left; 
-	position: absolute;
+	position: relative;
 	  float: left;
 	   margin: 20px;
-    align-items: flex-end;
+	   border-width: 10px;
+	   border-color: white;
+    align-items: center;
 }
 header{
 	padding-top: 20px;
